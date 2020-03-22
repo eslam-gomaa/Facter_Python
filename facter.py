@@ -46,4 +46,4 @@ def facter():
 
 
 ### Examples:
-# print(facter()['partitions'])
+#print(facter()['partitions'])
